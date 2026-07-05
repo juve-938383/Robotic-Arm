@@ -1,7 +1,7 @@
 # Robotic-Arm
-Inverse-Kinematics-based animation of a robotic arm sorting incoming objects in a factory setting made with three.js . Project for the Interactive Graphics course in collaboration with Gunak Yuzak.
+Inverse-Kinematics-based animation of a robotic arm sorting incoming objects in a factory setting made with three.js . Project for the Interactive Graphics course in collaboration with [Gunak Yuzak](https://github.com/GnkYzk).
 
-![Robotic Arm]()
+![Robotic Arm](https://github.com/juve-938383/Robotic-Arm/blob/main/RoboticArm.gif)
 
 ## Interactions
 - **Left mouse Button** - Orbital Camera Rotation;
